@@ -72,3 +72,6 @@ During this week's project, I learned how to:
 ## License
 
 This project is open source and available under the MIT License.
+# Daily Challenge 1
+
+Completed Day 1 to Day 4.
