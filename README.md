@@ -1,6 +1,6 @@
 # Okumba Jeremiah - Week 03 Project
 
-This repository contains my Week 03 web development project completed as part of the IYF Software Engineering program. During this project, I practiced Git and GitHub workflows, created a multi-page website, and learned how to manage branches, resolve merge conflicts, and collaborate using version control.
+This repository contains my Week 03 web development project completed as part of the IYF computer  programing  program. During this project, I practiced Git and GitHub workflows, created a multi-page website, and learned how to manage branches, resolve merge conflicts, and collaborate using version control.
 
 ## Live Demo
 
